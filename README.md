@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🌱 Atualmente estou aprendendo **Java**, **C#** e **Unity**.
 - 👯 Estou procurando colaborar em projetos open-source e desenvolver soluções inovadoras.
 - 💬 Pergunte-me sobre **JavaScript**, **Node.js**, **Android**, **MySQL**, **Bootstrap**, **HTML** e **CSS**.
-- 📫 Como me encontrar: [paulowenderson@gmail.com](mailto:paulowenderson@gmail.com)
+- 📫 Como me encontrar: [pwconsertos@gmail.com](mailto:pwconsertos@gmail.com)
 
 ## Habilidades
 
